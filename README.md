@@ -14,7 +14,6 @@ Welcome to my GitHub!
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
 
 - 🌱 I’m currently learning more advanced techniques in frontend and backend development, with a focus on improving my skills. I’m also exploring new tools and frameworks to stay ahead in the ever-evolving world of web development.
-
 - 💞️ I’m looking to collaborate on web development projects that challenge me and allow me to grow as a developer. Whether it’s a complex website or an innovative app, I’m excited to bring ideas to life.
 
 **Favorite tools:**
