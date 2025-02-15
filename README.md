@@ -20,6 +20,9 @@ Welcome to my GitHub!
 
 **Favorite tools:**
 > **Browser:** Google Chrome
+> 
 > **Editor:** VSCode
-> **Main programming languages:** JavaScript & PHP  
+> 
+> **Main programming languages:** JavaScript & PHP
+> 
 > **Frameworks:** React & Laravel  
