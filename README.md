@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Giovana 🐱
+# 👋 Hi, I'm Giovana 🐱
 
 Welcome to my GitHub!
 
@@ -6,7 +6,7 @@ Welcome to my GitHub!
 💻 Passionate about building scalable, user-friendly, and secure applications.  
 
 I specialize in **Fullstack Development** with experience in frontend (React, Next.js, WordPress, UI/UX) and backend (Laravel, PHP, AWS, RDS, APIs, microservices).  
-I enjoy turning ideas into products — from designing intuitive interfaces to deploying cloud-based solutions.  
+I enjoy turning ideas into products, from designing intuitive interfaces to deploying cloud-based solutions.  
 
 ---
 
@@ -35,13 +35,13 @@ I enjoy turning ideas into products — from designing intuitive interfaces to d
 ---
 
 ## 🤝 Collaboration
-I’m open to collaborating on projects that involve:  
+I'm open to collaborating on projects that involve:  
 - Fullstack web applications.  
 - Cloud-based solutions (AWS, microservices).  
 - WordPress customizations & plugins.  
 - UI/UX with a focus on seamless user experiences.  
 
-Whether it’s a complex system or an innovative app, I’m excited to bring ideas to life.  
+Whether it's a complex system or an innovative app, I'm excited to bring ideas to life.  
 
 ---
 
@@ -53,4 +53,4 @@ Whether it’s a complex system or an innovative app, I’m excited to bring ide
 
 ---
 
-📫 Feel free to connect with me — I love exchanging ideas about web development, cloud solutions, and creative coding.
+📫 Feel free to connect with me, I love exchanging ideas about web development, cloud solutions, and creative coding.
