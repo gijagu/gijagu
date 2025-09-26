@@ -2,27 +2,55 @@
 
 Welcome to my GitHub!
 
-- 👀 I’m interested in web development, frontend design, and creating seamless user experiences. I love working with technologies like JavaScript, PHP, C#, HTML, CSS, and WordPress to build dynamic and responsive websites.
-- Although I specialize in frontend development, I enjoy learning about various aspects of web development, and I’m always looking for new challenges.
-  
-### My skillset
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+🎓 Systems Engineer by degree, Software Engineer by profession.  
+💻 Passionate about building scalable, user-friendly, and secure applications.  
 
-- 🌱 I’m currently learning more advanced techniques in frontend and backend development, with a focus on improving my skills. I’m also exploring new tools and frameworks to stay ahead in the ever-evolving world of web development.
-- 💞️ I’m looking to collaborate on web development projects that challenge me and allow me to grow as a developer. Whether it’s a complex website or an innovative app, I’m excited to bring ideas to life.
+I specialize in **Fullstack Development** with experience in frontend (React, Next.js, WordPress, UI/UX) and backend (Laravel, PHP, AWS, RDS, APIs, microservices).  
+I enjoy turning ideas into products — from designing intuitive interfaces to deploying cloud-based solutions.  
 
-**Favorite tools:**
-> **Browser:** Google Chrome
-> 
-> **Editor:** VSCode
-> 
-> **Main programming languages:** JavaScript & PHP
-> 
-> **Frameworks:** React & Laravel  
+---
+
+## 🚀 My Skillset
+
+**Languages & Tools:**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=black)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+
+---
+
+## 🌱 Currently Exploring
+- Advanced **frontend architectures** with React, Next.js & Tailwind.  
+- **Backend optimizations** with Laravel, Livewire, and scalable APIs.  
+- **Cloud-native apps** with AWS (Lambda, API Gateway, Amplify).  
+- Secure software development practices.  
+
+---
+
+## 🤝 Collaboration
+I’m open to collaborating on projects that involve:  
+- Fullstack web applications.  
+- Cloud-based solutions (AWS, microservices).  
+- WordPress customizations & plugins.  
+- UI/UX with a focus on seamless user experiences.  
+
+Whether it’s a complex system or an innovative app, I’m excited to bring ideas to life.  
+
+---
+
+## 🛠 Favorite Tools
+- **Browser:** Google Chrome  
+- **Editor:** VSCode  
+- **Main Languages:** JavaScript & PHP  
+- **Frameworks:** React, Next.js & Laravel  
+
+---
+
+📫 Feel free to connect with me — I love exchanging ideas about web development, cloud solutions, and creative coding.
